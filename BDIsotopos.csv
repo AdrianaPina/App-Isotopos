@@ -1,0 +1,187 @@
+﻿ID;Codigo;Nombre;Zona;Mes;Ano;Elevacion;Latitud;Longitud;Tipo;Clase;Informacion;Comentarios;CE;Temperatura;pH;OD_mg/L;2H;18O;Fecha
+C-007;M01;Rio Chuza;Chingaza;Mar;2023;3026;4.6334;-73.7247;Rio;Superficial;Rio Chuza;Rio Chuza;43;10.6;6.5;;-59.71;-8.61;03-04-2023
+C-008;M02;Compuertas Embalse;Chingaza;Mar;2023;2997;4.6062;-73.7106;Rio;Superficial;Compuertas Embalse Chingaza;Compuertas Embalse Chingaza, Nivel de agua: 2969.1;53.6;44.8;7;;-74.6;-10.69;03-04-2023
+C-009;M03;Filtraciones Embalse;Chingaza;Mar;2023;2922;4.5674;-73.7048;Presa;Subterranea;Filtraciones Golillas;;55.5;12.7;8;;-85.65;-11.92;03-04-2023
+C-010;M04;Túnel Embalse;Chingaza;Mar;2023;2924;4.5668;-73.7045;Presa;Subterranea;Túnel Valvula de Fondo;Túnel Valvula de Fondo Embalse Chingaza;50;12.7;7.5.;;-87.65;-12.24;03-04-2023
+C-011;M05;Infiltraciones cascada;Chingaza;Mar;2023;2955;4.5685;-73.7053;Presa;Subterranea;Infiltraciones;Infiltraciones Cascada;46.48;10.9;8;;-54.43;-8.85;03-04-2023
+C-012;M06;Filtración galería derecha;Chingaza;Mar;2023;2987;4.5692;-73.7055;Presa;Subterranea;Infiltraciones;Infiltraciones túnel galeria derecha;417;12.9;7;;-64.37;-10.32;03-04-2023
+C-013;M07;Filtraciones;Chingaza;Mar;2023;2979;4.568;-73.7044;Presa;Subterranea;Infiltraciones;Infiltración compuesta galeri izquierda;20.7;10.4;7;;-62.07;-9.53;03-04-2023
+C-014;M08;Filtración compuesta gal. Der;Chingaza;Mar;2023;2979;4.5692;-73.7055;Presa;Subterranea;Infiltraciones;Infiltración compuesta galeri derecha;85.3;12;7.5;;-73;-10.78;03-04-2023
+C-015;M09;Drenaje valle Frailejones;Chingaza;Abr;2023;3170;4.5341333;-73.7629833;Drenaje;Superficial;Drenaje;Drenaje Valle de los Frailejones;28.5;10.7;7.5;;-62.67;-9.09;04-04-2023
+C-016;M10;Quebrada La Paila;Chingaza;Abr;2023;3182;4.53507;-73.7639833;Quebrada;Superficial;Quebrada la Paila;Quebrada la Paila;27;9.7;7;;-71.46;-10.22;04-04-2023
+C-017;M11;Laguna Chingaza;Chingaza;Abr;2023;3221;4.5313;-73.74865;Laguna;Superficial;Laguna Chingaza;Salida Laguna Chingaza-Rio Frio;68.7;13.5;7.5;;-77.23;-11.09;04-04-2023
+C-018;M12;Compuesta Laguna Chingaza;Chingaza;Abr;2023;3221;4.53115;-73.74865;Laguna;Superficial;Laguna Chingaza;Compuesta Laguna Chingaza;79.9;12.5;7.5;;-74.12;-11.02;04-04-2023
+C-019;M13;Río Frio;Chingaza;Abr;2023;;4.5317833;-73.7453333;Rio;Superficial;Rio Frio;Río La Frio antes de la bocatoma Guatiquía;65.2;13.1;7;;-69.49;-10.48;04-04-2023
+C-020;M14;Rio La Playa;Chingaza;Abr;2023;3163;4.5314;-73.74515;Rio;Superficial;Rio La Playa;;61.6;10.4;6;;-64.34;-10.05;04-04-2023
+C-021;M15;Cascada Los Chorros;Chingaza;Abr;2023;3200;4.53695;-73.7315;Cascada;Superficial;Cascada Los Chorros;;3.45;9.7;7;;-52.32;-8.32;04-04-2023
+C-022;M16;Nacimiento rio Chuza;Chingaza;Abr;2023;;4.58965;-73.7858333;Superficial;Superficial;Nacimiento Río Chuza;;56.5;11.9;7;;-57.97;-8.61;04-04-2023
+C-023;M17;Laguna Seca;Chingaza;Abr;2023;;4.5895167;-73.7857667;Laguna;Superficial;Laguna Seca;;41.4;11.3;7.5;;-41.15;-6.44;04-04-2023
+C-024;M18;Aguas arriba Laguna Seca;Chingaza;Abr;2023;;4.58955;-73.7863;Laguna;Superficial;Aguas arriba Laguna Seca;;15.16;10.6;6.5;;-50.87;-8.15;04-04-2023
+C-001;P1;Quebrada Mangon;Chingaza;Abr;2023;;4.6145667;-73.82195;Quebrada;Superficial;Quebrada mangon;;75;12.65;7.9;;-72.7;-10.67;04-21-2023
+C-002;P2;Quebrada Calostros;Chingaza;Abr;2023;;4.641095;-73.8303617;Quebrada;Superficial;Quebrada Calostros;;73;10.6;7.6;;-69.2;-10.46;04-21-2023
+C-003;P3;Quebrada Pluma Araña ;Chingaza;Abr;2023;;4.64576;-73.82625;Quebrada;Superficial;Quebrada Pluma Araña;;64;10.93;8.15;;-70.51;-10.67;04-27-2023
+C-004;T1;Alto de condores;Chingaza;May;2023;3449;4.5859133;-73.7296833;Lluvia;Lluvia;Totalizador Condores;Mayo;64;13;9.48;;-92.32;-13.62;04-30-2023
+C-005;T3;Valle del frailejon;Chingaza;May;2023;3150;4.5349167;-73.7647;Lluvia;Lluvia;Totalizador Frailejon;Mayo;17;12.3;9.52;;-80.93;-11.95;04-30-2023
+C-006;T2;Laguna Seca;Chingaza;May;2023;3639;4.6779;-73.7871833;Lluvia;Lluvia;Totalizador laguna seca;Mayo;39;10.75;9.52;;-90.12;-13.2;04-30-2023
+C-025;T1;Alto de condores;Chingaza;Jun;2023;3449;4.5859133;-73.7296833;Lluvia;Lluvia;Totalizador Condores;Junio;94;15.48;9.25;4.33;-107.93;-15.19;05-31-2023
+C-026;T2;Laguna seca;Chingaza;Jun;2023;3639;4.6779;-73.7871833;Lluvia;Lluvia;Totalizador laguna seca;Junio;31;12.4;9.33;3.93;-119.79;-16.48;05-31-2023
+C-027;T3;Valle del frailejon;Chingaza;Jun;2023;3150;4.5349167;-73.7647;Lluvia;Lluvia;Totalizador Frailejon;Junio;32;14.3;8.2;4.01;-117.86;-16.16;05-31-2023
+C-028;T1;Alto de condores;Chingaza;Jul;2023;3449;4.5859133;-73.7296833;Lluvia;Lluvia;Totalizador Condores;Julio;4;11.04;6.78;6.87;-72.21;-10.37;06-30-2023
+C-029;T2;Laguna seca;Chingaza;Jul;2023;3639;4.6779;-73.7871833;Lluvia;Lluvia;Totalizador laguna seca;Julio;3;9.34;6.93;7.03;-77.98;-11.62;06-30-2023
+C-030;T3;Valle del frailejon;Chingaza;Jul;2023;3150;4.5349167;-73.7647;Lluvia;Lluvia;Totalizador Frailejon;Julio;3;11.62;6.18;7.32;-68.51;-10.37;06-30-2023
+C-031;T1;Alto de condores;Chingaza;Ago;2023;3449;4.5859133;-73.7296833;Lluvia;Lluvia;Totalizador Condores;Agosto;4;12.21;7.07;6.95;-47.46;-8;07-31-2023
+C-032;T2;Laguna seca;Chingaza;Ago;2023;3639;4.6779;-73.7871833;Lluvia;Lluvia;Totalizador laguna seca;Agosto;4;12.58;7.15;7;-53.05;-8.86;07-31-2023
+C-033;T3;Valle del frailejon;Chingaza;Ago;2023;3150;4.5349167;-73.7647;Lluvia;Lluvia;Totalizador Frailejon;Agosto;4;12.9;6.85;7.21;-49.33;-8.09;07-31-2023
+C-034;T1;Alto de condores;Chingaza;Sep;2023;3449;4.5859133;-73.7296833;Lluvia;Lluvia;Totalizador Condores;Septiembre;5;11.7;7.21;7.06;-53.5;-8.84;08-31-2023
+C-035;T2;Laguna seca;Chingaza;Sep;2023;3639;4.6779;-73.7871833;Lluvia;Lluvia;Totalizador laguna seca;Septiembre;4;11.26;7.3;6.97;-59.12;-9.05;08-31-2023
+C-036;T3;Valle del frailejon;Chingaza;Sep;2023;3150;4.5349167;-73.7647;Lluvia;Lluvia;Totalizador Frailejon;Septiembre;6;12.94;6.86;7.45;-57.11;-8.83;08-31-2023
+C-037;T1;Alto de condores;Chingaza;Oct;2023;3449;4.5859133;-73.7296833;Lluvia;Lluvia;Totalizador Condores;Octubre;6;16.65;7.05;6.89;-29.38;-5.97;09-30-2023
+C-038;T2;Laguna seca;Chingaza;Oct;2023;3639;4.6779;-73.7871833;Lluvia;Lluvia;Totalizador laguna seca;Octubre;5;10.27;6.87;6.9;-37.98;-6.91;09-30-2023
+C-039;T3;Valle del frailejon;Chingaza;Oct;2023;3150;4.5349167;-73.7647;Lluvia;Lluvia;Totalizador Frailejon;Octubre;4;14.44;6.72;7.21;-36.82;-6.35;09-30-2023
+U-001;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Sep;2023;;4.639815;-74.080912;Pozo;Subterranea;Pozo;11:15;163.4;;6.35;;-58.3;-8.65;09-30-2023
+U-002;PA02;PZ-227-IV-D-103 (140m);CAMPUS;Sep;2023;;4.639725;-74.080934;Piezometro;Subterranea;Piezometro;;135.1;;6.37;;-61.18;-9.04;09-30-2023
+U-003;M2-PA25;Genetica (30m);CAMPUS;Sep;2023;;4.642766;-74.082234;Piezometro;Subterranea;Piezometro;;209;;6.61;;-63.04;-9.12;09-30-2023
+U-004;M5-PA05;Hidraulica3 (7m);CAMPUS;Sep;2023;;4.638826;-74.081446;Piezometro;Subterranea;Piezometro;;283;;5.9;;-55.6;-8.17;09-30-2023
+U-005;Tot;TOT Hidráulica (Lluvia);CAMPUS;Sep;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;;54.2;;7.04;;-61.18;-9.08;09-30-2023
+U-006;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Abr;2023;;4.639815;-74.080912;Pozo;Subterranea;Pozo;;168.1;;6.45;;-57.17;-9.07;04-29-2023
+U-007;PA02;PZ-227-IV-D-103 (140m);CAMPUS;Abr;2023;;4.639725;-74.080934;Piezometro;Subterranea;Piezometro;;134.6;;6.59;;-57.28;-9.29;04-29-2023
+U-008;M2-PA25;Genetica (30m);CAMPUS;Abr;2023;;4.642766;-74.082234;Piezometro;Subterranea;Piezometro;;227;;6.57;;-58.05;-8.89;04-29-2023
+U-009;M5-PA05;Hidraulica3 (7m);CAMPUS;Abr;2023;;4.638826;-74.081446;Piezometro;Subterranea;Piezometro;;175.9;;5.9;;-57.68;-8.86;04-29-2023
+U-010;Tot;TOT Hidráulica (Lluvia);CAMPUS;Abr;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;;29.6;;6.2;;-61.71;-9.18;04-28-2023
+U-011;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Jul;2023;;4.639815;-74.080912;Pozo;Subterranea;Pozo;;158.5;;6.38;;-63.99;-9.62;07-31-2023
+U-012;PA02;PZ-227-IV-D-103 (140m);CAMPUS;Jul;2023;;4.639725;-74.080934;Piezometro;Subterranea;Piezometro;;125.4;;6.44;;-62.96;-9.4;07-31-2023
+U-013;M2-PA25;Genetica (30m);CAMPUS;Jul;2023;;4.642766;-74.082234;Piezometro;Subterranea;Piezometro;;231;;6.62;;-65.77;-9.54;07-31-2023
+U-014;M5-PA05;Hidraulica3 (7m);CAMPUS;Jul;2023;;4.638826;-74.081446;Piezometro;Subterranea;Piezometro;;251;;6.17;;-62.01;-8.98;07-31-2023
+U-015;Tot;TOT Hidráulica (Lluvia);CAMPUS;Jul;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;;12.4;;6.58;;-60.34;-8.79;07-31-2023
+U-016;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;May;2023;;4.639815;-74.080912;Pozo;Subterranea;Pozo;;182.5;;6.42;;-58.07;-8.5;05-31-2023
+U-017;PA02;PZ-227-IV-D-103 (140m);CAMPUS;May;2023;;4.639725;-74.080934;Piezometro;Subterranea;Piezometro;;134.5;;6.52;;-59.68;-9.09;05-31-2023
+U-018;M2-PA25;Genetica (30m);CAMPUS;May;2023;;4.642766;-74.082234;Piezometro;Subterranea;Piezometro;;225;;6.56;;-62.2;-9.18;05-31-2023
+U-019;M5-PA05;Hidraulica3 (7m);CAMPUS;May;2023;;4.638826;-74.081446;Piezometro;Subterranea;Piezometro;;223;;6.08;;-63.13;-9.49;05-31-2023
+U-020;Tot;TOT Hidráulica (Lluvia);CAMPUS;May;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;;32.5;;8.58;;-61.89;-9.26;05-31-2023
+U-021;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Ago;2023;;4.639815;-74.080912;Pozo;Subterranea;Pozo;;;;;;-61.72;-9.16;08-29-2023
+U-022;PA02;PZ-227-IV-D-103 (140m);CAMPUS;Ago;2023;;4.639725;-74.080934;Piezometro;Subterranea;Piezometro;;;;;;-57.25;-8.95;08-29-2023
+U-023;M2-PA25;Genetica (30m);CAMPUS;Ago;2023;;4.642766;-74.082234;Piezometro;Subterranea;Piezometro;;;;;;-58.42;-8.98;08-29-2023
+U-024;M5-PA05;Hidraulica3 (7m);CAMPUS;Ago;2023;;4.638826;-74.081446;Piezometro;Subterranea;Piezometro;;;;;;-59.78;-9;08-29-2023
+U-025;Tot;TOT Hidráulica (Lluvia);CAMPUS;Ago;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;;;;;;-61.4;-9.36;08-29-2023
+U-026;Tot;TOT Hidráulica (Lluvia);CAMPUS;Dic;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;810 mL/mes;30;20;6.9;;-60.57;-8.92;12-28-2023
+U-027;Tot;TOT Hidráulica (Lluvia);CAMPUS;Dic;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;1105 mL/mes;30;25.1;5.69;;-60.49;-9.23;11-30-2023
+U-028;Tot;TOT Hidráulica (Lluvia);CAMPUS;Feb;2024;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;1230 mL/mes;60;26.4;5.2;;-58.71;-9.04;02-29-2024
+U-029;Tot;TOT Hidráulica (Lluvia);CAMPUS;Oct;2023;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;1550 mL/mes;10;21.76;6.97;6.72;-59.7;-9.3;10-31-2023
+U-030;Tot;TOT Hidráulica (Lluvia);CAMPUS;Abr;2024;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;760 mL/mes;20;21.9;6.6;;-59.67;-9.05;03-31-2024
+U-031;Tot;TOT Hidráulica (Lluvia);CAMPUS;Abr;2024;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;1350 mL/mes;20;23.5;7.36;;-61.32;-9.2;04-30-2024
+U-032;PA34;Canchas 53;CAMPUS;Ene;2024;;999,216,911;1004885.11;Piezometro;Subterranea;Piezometro;;420;20.9;5.3;200;-58.23;-8.66;01-31-2024
+U-033;PA36;Uriel Gutierrez;CAMPUS;Ene;2024;;999,661,012;1004262.46;Piezometro;Subterranea;Piezometro;;;;;;-57.59;-8.85;01-31-2024
+U-034;PA35;CyT;CAMPUS;Ene;2024;;998,538,734;1004803.18;Piezometro;Subterranea;Piezometro;;500;22.7;6.3;240;-57.21;-9.32;01-31-2024
+U-035;M5-PA05;Hidraulica3 (7m);CAMPUS;Ene;2024;;4.638826;-74.081446;Piezometro;Subterranea;Piezometro;;;;;;-58.06;-8.77;01-31-2024
+U-036;PA38;Ancizar;CAMPUS;Ene;2024;;999,189,679;1004553.86;Piezometro;Subterranea;Piezometro;;;;;89;-58.33;-9;01-31-2024
+U-037;;Concha acustica;CAMPUS;Ene;2024;;;;Piezometro;Subterranea;Piezometro;;;;;;-57.74;-8.38;01-31-2024
+U-038;Tot;TOT Hidráulica (Lluvia);CAMPUS;Ene;2024;;4.638585;-74.081785;Lluvia;Lluvia;Lluvia;450 mL/mes;70;22.7;7.49;;-35.54;-6.61;01-31-2024
+U-039;PA37;Museo de arte;CAMPUS;Ene;2024;;999,077,832;1004230.32;Piezometro;Subterranea;Piezometro;;190;20.7;5.7;90;-65.53;-9.88;01-31-2024
+U-040;PA32;Reservorio;CAMPUS;Ene;2024;;;;Superficial;Lluvia;Superficial;;;;;;-55.93;-8.63;01-31-2024
+U-041;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;5:30;;;;;-130.64;-17.88;11-22-2023
+U-042;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;11:27;;;;;-41.84;-6.94;11-22-2023
+U-043;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;4 hrs de bombeo;;;;;-46.35;-7.28;11-27-2023
+U-044;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;8 hrs de bombeo;;;;;-104.37;-14.79;11-27-2023
+U-045;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;12 hrs de bombeo;;;;;-61.86;-9.5;11-28-2023
+U-046;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;16 hrs de bombeo;;;;;-53.56;-8.63;11-28-2023
+U-047;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;21,5 hrs de bombeo;;;;;-9.63;-3.57;11-28-2023
+U-048;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;36,5 hrs de bombeo;;;;;-89.57;-12.51;11-29-2023
+U-049;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;47.hrs de bombeo -12:05 pm;;;;;-19.91;-4.34;11-29-2023
+U-050;PA01;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2023;;4.639815;-74.080912;Pozo;Subterranea;Bombeo;1:30 pm Olor ferroso;;;;;-59.66;-8.52;11-29-2023
+G-01;M01;Salida Humedal Patiño ;TORCA;Ago;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;Ubicado humedal torca ;225;15.9;6.6;;-65.16;-9.1;06-30-2023
+G-02;M02;Quebrada Aguas Calientes ;TORCA;Ago;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;Se reduce el espacio y aumenta la velocidad ;186;16.2;7.2;;-67.41;-9.99;06-30-2023
+G-03;M03;Quebrada El Perro ;TORCA;Ago;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;448;14.5;7.3;;-63.6;-9.41;06-30-2023
+G-04;M04;Sector 6-Guaymaral ;TORCA;Ago;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;440;19.7;7.6;;-64.83;-8.94;06-30-2023
+G-05;M05;Sector 5-Guaymaral ;TORCA;Ago;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;370;18.36;7.6;;-70.39;-9.72;06-30-2023
+G-06;Tm 1 ;Humedal Patiño ;TORCA;Jun;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;Salida humedal patiño- torca ;163;16.6;8.2;;-59.58;-8.11;06-30-2023
+G-07;Tm 2 ;Totalizador de lluvia ;TORCA;Jun;2023;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;125;36;22;7.11;;-72.27;-9.86;07-31-2023
+G-08;Tm 3 ;Q Aguas Calientes ;TORCA;Jun;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;161;16.6;8.2;;-64.93;-9.97;07-31-2023
+G-09;Tm 4 ;Canal Torca - Vía Guaymaral ;TORCA;Jun;2023;2251.83;4.8095;-74.04;Canal ;Superficial;Canal Torca ;;57;16;7.6;;-66;-10.13;07-31-2023
+G-10;Tm 5 ;Sector 6-Guaymaral ;TORCA;Jun;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;430;19;7.3;;-61.51;-8.22;07-31-2023
+G-11;Tm 6 ;Sector 5-Guaymaral ;TORCA;Jun;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;450;20;7.3;;-63.73;-8.47;07-31-2023
+G-12;P1;Salida Humedal Patiño ;TORCA;Jul;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;351;20.7;6.7;;-58.16;-7.79;07-31-2023
+G-13;P2;Totalizador Lluvia ;TORCA;Jul;2023;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 80 ml ;25;21.5;7.5;;-65.82;-9.43;07-31-2023
+G-14;P3;Quebrada Aguas Calientes ;TORCA;Jul;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;161;16.6;8.2;;-67.72;-10.07;08-30-2023
+G-15;P4 ;Quebrada El Perro ;TORCA;Jul;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;504;18.4;7.2;;-50.73;-6.11;08-30-2023
+G-16;P5;Canal Torca-Salida Bima ;TORCA;Jul;2023;2251.83;4.8095;-74.04;Canal ;Superficial;Canal Torca ;;67;17.5;7.8;;-67.94;-10.17;08-30-2023
+G-17;P6;Sector 6-Guaymaral ;TORCA;Jul;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;470;20.1;7.4;;-57.63;-7.69;08-30-2023
+G-18;P7;Sector 5-Guaymaral ;TORCA;Jul;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;459;21.4;7.4;;-58.79;-7.73;08-30-2023
+G-19;M1;Salida Humedal Patiño ;TORCA;Sep;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;144;20;6.8;;-57.65;-8.07;08-30-2023
+G-20;M2;Totalizador ;TORCA;Sep;2023;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 1050 ml ;;;;;-45.72;-7.63;08-30-2023
+G-21;M3;Quebrada El Perro ;TORCA;Sep;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;176;22.6;7.4;;-40.12;-5.67;08-30-2023
+G-22;M4;Quebrada A C;TORCA;Sep;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;130;19;7.9;;;;09-30-2023
+G-23;M5;Sector 5-Guaymaral ;TORCA;Sep;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;480;20;7.96;;-51.6;-6.59;09-30-2023
+G-24;M6;Sector 6-Guaymaral ;TORCA;Sep;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;430;20;7.5;;-50.31;-6.28;09-30-2023
+G-25;M7;Zona hiporreica ;TORCA;Sep;2023;;;;Hiporreica;Hiporreica;Hiporreica;;;;;;-53.88;-6.62;09-30-2023
+G-26;PZ-01;Bavaria ;TORCA;Sep;2023;2562.02;4.8076;-74.0327;Pozo;Subterranea;;nivel 30 cm;33;16.8;6.06;;-66.21;-9.8;09-30-2023
+G-27;PZ-2;Tennis Club ;TORCA;Sep;2023;;;;Pozo ;Subterranea;;nivel 27,54;27.9;18.5;6.86;;-69.72;-10.13;09-30-2023
+G-28;M-1;Salida Humedal Patiño ;TORCA;Sep;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;274;23.2;7;;-51.54;-7.76;10-31-2023
+G-29;M-2;Totalizador ;TORCA;Sep;2023;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 420 ml ;;;;;-30.03;-5.13;10-31-2023
+G-30;M-3;Q. Aguas Calientes ;TORCA;Sep;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;252;22.1;7.8;;-62.04;-9.36;10-31-2023
+G-31;M-4;Q. El Perro ;TORCA;Sep;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;271;22.1;7.3;;-43.61;-7.45;10-31-2023
+G-32;M-5;Sector 6-Guaymaral ;TORCA;Sep;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;444;23.5;8.1;;-48.12;-6.46;10-31-2023
+G-33;M-6;Fundación Guaymaral ;TORCA;Sep;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;446;24.2;9.4;;-46.97;-5.62;10-31-2023
+G-34;Punto 1 ;Salida Humedal Patiño ;TORCA;Oct;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;210;20;7;;-74.15;-10.75;11-30-2023
+G-35;Punto 2 ;Totalizador ;TORCA;Oct;2023;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 560;;;;;-34.38;-6.08;11-30-2023
+G-36;Punto 3;Q. Aguas Calientes ;TORCA;Oct;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;167;21.2;7.9;;-64;-9.41;11-30-2023
+G-37;Punto 4;Q. El Perro ;TORCA;Oct;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;296;23.8;7.2;;-57.84;-8.36;11-30-2023
+G-38;Punto 5;Sector 6-Guaymaral ;TORCA;Oct;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;494;23.6;8;;-45.38;-5.7;11-30-2023
+G-39;Punto 6;Fundación Guaymaral ;TORCA;Oct;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;488;21.7;7.7;;-46.43;-6.13;11-30-2023
+G-40;M1 ;Salida Humedal Patiño ;TORCA;Nov;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;190;19.5;7.08;;-55.67;-7.69;12-29-2023
+G-41;M2;Totalizador ;TORCA;Nov;2023;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;;;;;;-81.37;-11.93;12-29-2023
+G-42;M3 ;Q. Aguas Calientes ;TORCA;Nov;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;170;20;7.58;;-61.56;-9.28;12-29-2023
+G-43;M4;Q. El Perro ;TORCA;Nov;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;510;23.5;7.1;;-43.7;-5.01;12-29-2023
+G-44;M5;Sector 6-Guaymaral ;TORCA;Nov;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;430;21.9;7.7;;-49.14;-6.11;12-29-2023
+G-45;M6;Fundación Guaymaral ;TORCA;Nov;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;410;22.7;8.75;;-49.83;-6.05;01-30-2024
+G-46;PR 1 ;Sotano Ed Uriel Gutierrez ;CAMPUS;Oct;2023;;999,661,012;1004262.46;Filtracion;Subterranea;;;;;;;-65;-9.19;01-30-2024
+G-47;PR 2 ;Obra Uriel Gutierrez ;CAMPUS;Oct;2023;;999,661,012;1004262.46;Filtracion;Subterranea;;;;;;;-60.08;-8.35;01-30-2024
+G-48;PR 3 ;Camilo Torres ;CAMPUS;Oct;2023;;998,547,412;1004890.21;Piezometro ;Subterranea;;;;;;;-61.89;-8.64;01-30-2024
+G-49;M1 ;Salida Humedal Patiño ;TORCA;Dic;2023;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;250;19.4;7.15;;-58.8;-8.62;01-30-2024
+G-50;M3;Q. Aguas Calientes ;TORCA;Dic;2023;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;150;16.8;7.97;;-60.05;-8.76;02-29-2024
+G-51;M4;Q. El Perro ;TORCA;Dic;2023;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;360;22.5;8.11;;-55.59;-7.37;02-29-2024
+G-52;M5;Sector 6-Guaymaral ;TORCA;Dic;2023;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;440;21.9;7.69;;-45.73;-5.91;02-29-2024
+G-53;M6;Fundación Guaymaral ;TORCA;Dic;2023;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;430;21.7;7.26;;-43.93;-5.36;02-29-2024
+G-54;P1 ;Salida Humedal Patiño ;TORCA;Ene;2024;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;160;16.4;6.92;;-62.56;-9.34;02-29-2024
+G-55;P2;Totalizador ;TORCA;Ene;2024;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 180 ml ;26;22.7;7.27;;-63.54;-9.4;01-30-2024
+G-56;P3;Q. Aguas Calientes ;TORCA;Ene;2024;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;150;17.5;6.45;;-58.66;-8.97;01-30-2024
+G-57;P4 ;Sector 6-Guaymaral ;TORCA;Ene;2024;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;470;25.5;8.2;;-54.21;-8.15;01-30-2024
+G-58;P5;Fundación Guaymaral ;TORCA;Ene;2024;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;460;23.6;7.2;;-60.45;-9.41;02-29-2024
+G-59;P1;Salida Humedal Patiño ;TORCA;Feb;2024;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;330;26.3;7.63;;-36.96;-4.11;02-29-2024
+G-60;P2;Totalizador ;TORCA;Feb;2024;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 610;30;20;7.1;;-44.45;-6.99;02-29-2024
+G-61;P3;Q. Aguas Calientes ;TORCA;Feb;2024;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;170;20.2;7.1;;-62.19;-9.02;02-29-2024
+G-62;P5;Sector 6-Guaymaral ;TORCA;Feb;2024;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;540;24.1;8.18;;-37.48;-3.07;02-29-2024
+G-63;P6;Fundación Guaymaral ;TORCA;Feb;2024;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;530;25.5;7.95;;-22.59;-0.15;06-04-2024
+G-64;P1 ;Salida Humedal Patiño ;TORCA;Jun;2024;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;360;19.8;6.27;;-40.95;-5.85;06-04-2024
+G-65;P2;Totalizador ;TORCA;Jun;2024;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;volumen 775 ml ;40;17.5;8.85;;-5.82;-2.57;06-04-2024
+G-66;P3;Q. Aguas Calientes ;TORCA;Jun;2024;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;190;19.2;6.85;;-59.2;-8.92;06-04-2024
+G-67;P4;Q. El Perro ;TORCA;Jun;2024;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;300;20.7;6.85;;-44.62;-6.58;06-04-2024
+G-68;P5;Sector 6-Guaymaral ;TORCA;Jun;2024;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;610;22.1;7.42;;-27.53;-1.62;06-04-2024
+G-69;P6;Fundación Guaymaral ;TORCA;Jun;2024;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;540;23.2;8.5;;-2.09;3.14;04-05-2024
+G-70;P1 ;Salida Humedal Patiño ;TORCA;Abr;2024;2549;4.7869;-74.0392;Humedal ;Superficial;Salida Humedal Patiño ;;200;20.6;6.57;;-90.82;-12.79;04-05-2024
+G-71;P2;Totalizador ;TORCA;Abr;2024;2548.53;4.7868;-74.0392;Lluvia;Lluvia;Totalizador Torca ;VOLUMEN 1325 ;50;19.1;8.73;;-84.14;-11.97;04-05-2024
+G-72;P3;Q. Aguas Calientes ;TORCA;Abr;2024;2555.94;4.7832;-74.0394;Quebrada ;Superficial;Quebrada Aguas Calientes ;;210;18.6;6.71;;-69.26;-9.9;04-05-2024
+G-73;P4;Q. El Perro ;TORCA;Abr;2024;2554.83;4.7832;-74.0395;Quebrada ;Superficial;Quebrada El Perro ;;170;21.4;6.81;;-82.75;-11.69;04-05-2024
+G-74;P5;Sector 6-Guaymaral ;TORCA;Abr;2024;;4.8024;-74.0393;Humedal ;Superficial;Sector 6 Guaymaral ;;620;22.3;6.88;;-35.24;-3.22;04-05-2024
+G-75;P6;Fundación Guaymaral ;TORCA;Abr;2024;2548;4.8058;-74.0432;Humedal ;Superficial;Sector 5 Fundación Guaymaral ;;890;22.4;6.33;;-32.19;-2.06;04-18-2024
+CABM1;CABM1;Mina La Emilia 1;Bituminosa;Abr;2024;2730;"73° 01' 13.5444""W";"5° 35' 09.5532"" N";Manantial;Subterranea;Filtración;Municipio Pesca;1285;18;7.35;;-66.7;-8.8;04-19-2024
+CABM2;CABM2;Mina La Emilia 2;Bituminosa;Abr;2024;2815;"73° 01' 03.1908"" W";"5° 35' 13.3548"" N";Manantial;Subterranea;Manantial aguas arriba Mina la Emilia;Municipio Pesca;17;14.4;7.73;;-77.28;-10.78;04-19-2024
+CABM3;CABM3;Mina Santa Teresa nivel 55.;Bituminosa;Abr;2024;2155;"73° 03' 11.1217""W";"5° 33' 47.3338"" N";Manantial;Subterranea;Mina Santa Teresa Nivel 55 de profundidad;Municipio Pesca;600;19.5;6.86;;-80.39;-11.18;04-19-2024
+CABM4;CABM4;Mina Santa Teresa nivel 35.;Bituminosa;Abr;2024;2175;"73° 03' 11.1217""W";"5° 33' 47.3338"" N";Manantial;Subterranea;Mina Santa Teresa Nivel 35 de profundidad;Municipio Pesca;631;18;6.2;;-74.81;-10.31;04-20-2024
+CABM5;CABM5;Manantial Las Cruces;Bituminosa;Abr;2024;2651;"73° 00' 47.5776"" W";"5° 36' 28.7568"" N";Manantial;Subterranea;Sector Las Cruces ;Municipio Pesca;61;15.6;7.43;;-79.42;-11.27;11-29-2022
+W-5469;W-5469;Pozo 227-IV-D-103 (250m);CAMPUS;Nov;2022;;;;Pozo;Subterranea;Noviembre;Pozo 227-IV-D-103 (250m);;;;;-63.1;-9.42;11-29-2022
+W-5770;W-5770;PZ-227-IV-D-103 (140m);CAMPUS;Nov;2022;;;;Piezometro;Subterranea;Noviembre;PZ-227-IV-D-103 (140m);;;;;-60.7;-9.1;11-29-2022
+W-6071;W-6071;Genetica (30m);CAMPUS;Nov;2022;;;;Piezometro;Subterranea;Noviembre;Genetica (30m);;;;;-61.7;-9.24;11-29-2022
+W-6372;W-6372;Hidraulica3 (7m);CAMPUS;Nov;2022;;;;Piezometro;Subterranea;Noviembre;Hidraulica3 (7m);;;;;-77.7;-10.87;11-30-2022
+W-6673;W-6673;TOT Hidráulica (Lluvia);CAMPUS;Nov;2022;;;;Lluvia;Lluvia;Noviembre;TOT Hidráulica (Noviembre);;;;;-112.2;-15.73;12-30-2022
+W-6974;W-6974;TOT Hidráulica (Lluvia);CAMPUS;Dic;2022;;;;Lluvia;Lluvia;Diciembre;TOT Hidráulica (Diciembre);;;;;-31.1;-5.65;01-31-2023
+W-5588;W-5588;Pozo 227-IV-D-103 (250m);CAMPUS;Ene;2023;;;;Pozo;Subterranea;Enero;Pozo 227-IV-D-103 (250m);;;;;-63.2;-9.22;01-31-2023
+W-5589;W-5589;PZ-227-IV-D-103 (140m);CAMPUS;Ene;2023;;;;Piezometro;Subterranea;Enero;PZ-227-IV-D-103 (140m);;;;;-60.6;-8.93;01-31-2023
+W-5590;W-5590;Genetica (30m);CAMPUS;Ene;2023;;;;Piezometro;Subterranea;Enero;Genetica (30m);;;;;-60.8;-8.99;01-31-2023
+W-5591;W-5591;Hidraulica3 (7m);CAMPUS;Ene;2023;;;;Piezometro;Subterranea;Enero;Hidraulica3 (7m);;;;;-70.2;-9.84;01-31-2023
+W-5592;W-5592;TOT Hidráulica (Lluvia);CAMPUS;Ene;2023;;;;Lluvia;Lluvia;Enero;TOT Hidráulica (Enero);;;;;-50.7;-7.87;02-28-2023
+W-5910;W-5910;PZ-227-IV-D-103 (140m);CAMPUS;Feb;2023;;;;Piezometro;Subterranea;Febrero;PZ-227-IV-D-103 (140m);;;;;-59.7;-8.83;02-28-2023
+W59-11;W59-11;Pozo 227-IV-D-103 (250m);CAMPUS;Feb;2023;;;;Pozo;Subterranea;Febrero;M3-PA-01-Pozo3-purgado;;;;;-62.5;-9.17;02-28-2023
+W59-12;W59-12;Pozo 227-IV-D-103 (250m);CAMPUS;Feb;2023;;;;Pozo;Subterranea;Febrero;M1-PA-01-Pozo3;;;;;-62.6;-9.19;02-28-2023
+W-5913;W-5913;Genetica (30m);CAMPUS;Feb;2023;;;;Piezometro;Subterranea;Febrero;Genetica (30m);;;;;-61.1;-9.08;02-28-2023
+W59-14;W59-14;Hidraulica3 (7m);CAMPUS;Feb;2023;;;;Piezometro;Subterranea;Febrero;Hidraulica3 (7m);;;;;-67.1;-9.61;02-28-2023
+W59-15;W59-15;TOT Hidráulica (Lluvia);CAMPUS;Feb;2023;;;;Lluvia;Lluvia;Febrero;TOT Hidráulica (Febrero);;;;;-31;-5.91;02-28-2023
